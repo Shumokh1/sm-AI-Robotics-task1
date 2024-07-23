@@ -122,7 +122,7 @@ Follow these steps to set up the project on your local machine.
 
 ### Troubleshooting
 
-- If the first time you run the URL it asks for camera permission, you should click "Allow" to grant access to the webcam. If you encounter this issue, rerun the `python app.py` command after allowing camera access.
+- If the first time you run the URL it asks for camera permission, you should click "Allow" to grant access to the webcam. If you encounter this, you should rerun the `python app.py` command again after allowing camera access.
 
 
 
