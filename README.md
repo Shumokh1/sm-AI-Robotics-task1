@@ -1,5 +1,4 @@
 # sm-AI-Robotics-task1
-# Real-Time Face Detection with Flask and OpenCV
 
 ## Overview
 
@@ -8,6 +7,7 @@ Task1: Use OpenCV and flask to make real time face detection
 This task shows a simple web application that performs real-time face detection using Flask and OpenCV. The application captures video from a webcam, processes the video frames to detect faces, and streams the processed video to a web browser.
 
 ## Demo
+https://github.com/user-attachments/assets/79957324-5717-4b09-a2bf-542adaf6b5c0
 
 ## Installation
 
