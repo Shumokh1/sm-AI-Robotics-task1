@@ -22,6 +22,7 @@ Follow these steps to set up the project on your local machine.
      mkdir face_detection_flask
      cd face_detection_flask
      ```
+(my folder name is face_detection_flask, make sure to replace it with your own folder name)
 
 2. **Open Visual Studio Code**:
    - Open Visual Studio Code and open the folder you just created:
