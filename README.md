@@ -2,7 +2,7 @@
 
 ## Overview
 
-Task1: Use OpenCV and flask to make real time face detection
+Task1: Use OpenCV and flask to make real time face detection.
 
 This task shows a simple web application that performs real-time face detection using Flask and OpenCV. The application captures video from a webcam, processes the video frames to detect faces, and streams the processed video to a web browser.
 
